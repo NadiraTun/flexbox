@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background-color: red;
+}
+.contan{
+    
+    width: 80%;
+    margin: 0 auto;
+    background-color: black;
+    justify-content: space-between;
+}
+.items{
+    display: flex; 
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.items h1{
+    width: 12%;
+    background-color: pink;
+    margin: 20px 20px;
+    text-align: center;
+}
